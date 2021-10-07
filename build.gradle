@@ -1,0 +1,4 @@
+allprojects {
+    group = 'com.assignment.gradledependencies'
+    version = '1.0'
+}
