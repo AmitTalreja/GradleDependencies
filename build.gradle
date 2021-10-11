@@ -1,3 +1,13 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.0.2'
+    }
+}
+
 allprojects {
     group = 'com.assignment.gradledependencies'
     version = '1.0'
