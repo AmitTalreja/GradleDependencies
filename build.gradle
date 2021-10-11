@@ -9,6 +9,6 @@ buildscript {
 }
 
 allprojects {
-    group = 'com.assignment.gradledependencies'
-    version = '2.2'
+    group = 'com.assignment.testgradle'
+    version = '2.3'
 }

@@ -1,4 +1,4 @@
-package com.assignment.gradledependencies;
+package com.assignment.testgradle;
 
 import android.util.Log;
 
