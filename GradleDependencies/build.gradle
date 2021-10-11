@@ -2,7 +2,7 @@ plugins {
     id 'com.android.library'
 }
 
-group = 'xyz-dependencies'
+//group = 'xyz-dependencies'
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
