@@ -12,6 +12,6 @@ buildscript {
 
 
 allprojects {
-    //group = 'com.assignment'
-    version = '1.6'
+    group = 'com.assignment.gradledependencies'
+    version = '1.8'
 }
