@@ -2,19 +2,15 @@ buildscript {
     repositories {
         google()
         mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:4.2.2"
+        classpath 'com.android.tools.build:gradle:7.0.2'
     }
 }
 
 
 allprojects {
-    repositories {
-            google()
-            mavenCentral()
-            jcenter() // Warning: this repository is going to shut down soon
-        }
     group = 'com.assignment.gradledependencies'
     version = '1.0'
 }
