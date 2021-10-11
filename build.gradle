@@ -12,6 +12,6 @@ buildscript {
 
 
 allprojects {
-    group = 'com.assignment'
+    //group = 'com.assignment'
     version = '1.6'
 }
