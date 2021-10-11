@@ -1,16 +1,3 @@
-buildscript {
-    repositories {
-        google()
-        mavenCentral()
-        // jcenter() 
-        // Warning: this repository is going to shut down soon
-    }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:7.0.2'
-    }
-}
-
-
 allprojects {
     group = 'com.assignment.gradledependencies'
     version = '1.8'
