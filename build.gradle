@@ -11,7 +11,7 @@ buildscript {
 }
 
 
-allprojects {
-    group = 'com.assignment.gradledependencies'
-    version = '1.0'
-}
+//allprojects {
+  //  group = 'com.assignment.gradledependencies'
+    //version = '1.0'
+//}
