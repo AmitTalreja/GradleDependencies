@@ -11,7 +11,11 @@ buildscript {
 }
 
 allprojects {
-   
+   repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
     group = 'com.assignment.testgradle'
     version = '2.6'
 }
