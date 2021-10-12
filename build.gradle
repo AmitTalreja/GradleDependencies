@@ -15,7 +15,11 @@ buildscript {
 }
 
 allprojects {
-   
+   repositories {
+        google()
+        mavenCentral()
+        jcenter()
+    }
     group = 'com.assignment.testgradle'
     version = '2.6'
 }
